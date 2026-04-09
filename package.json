@@ -1,0 +1,11 @@
+{ 
+  "name": "ProjectX",
+  "version": "1.0.0",
+  "description": "Google Login authentication system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SripalPM",
+  "license": "ISC"
+}
